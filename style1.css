@@ -8,7 +8,6 @@
         
         #button-table {
                  width:  800px;
-                 background-color: #FF0000;
         } 
 
         #headlines {
@@ -18,4 +17,12 @@
         #about-paragraph {
                  color: #FF0000;
                  font-size:  20px;        
-        }         
+        }       
+
+        #about_img1 {
+                 float: right;
+        }
+
+        #about_img2 {
+                 float: left;
+        }
