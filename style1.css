@@ -23,16 +23,17 @@
 
         #about_img1 {
                  float: right;
-                 width: 700px;
-                 height: 500px;
+                 width: 500px;
+                 height: 300px;
         }
 
         #about_img2 {
                  float: left;
-                 width: 700px;
-                 height: 500px;
+                 width: 500px;
+                 height: 300px;
         }
 
          #about_background {
                   background-image: url("https://github.com/WillBurbine/WillBurbine.github.io/blob/main/cscbackground.jpg?raw=true");
+                  background-color: #cccccc;
          }
