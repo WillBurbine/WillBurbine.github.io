@@ -32,6 +32,5 @@
         }
 
          #about_background {
-                  background-image: url("https://github.com/WillBurbine/WillBurbine.github.io/blob/main/cscbackground.jpg?raw=true");
-                  background-color: #cccccc;
+                  background-image: <img src="https://github.com/WillBurbine/WillBurbine.github.io/blob/main/cscbackground.jpg?raw=true";
          }
