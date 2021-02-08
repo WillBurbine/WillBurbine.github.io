@@ -8,6 +8,7 @@
         
         #button-table {
                  width:  800px;
+                 background-color: #FFD700;
         } 
 
         #headlines {
@@ -21,14 +22,14 @@
 
         #about_img1 {
                  float: right;
-                 width: 500px;
-                 height: 300px;
+                 width: 1000px;
+                 height: 500px;
         }
 
         #about_img2 {
                  float: left;
-                 width: 500px;
-                 height: 300px;
+                 width: 1000px;
+                 height: 500px;
         }
 
          #about_background {
