@@ -15,20 +15,20 @@
         }
 
         #about-paragraph {
-                 color: #FF0000;
+                 color: #FFF5EE;
                  font-size:  20px;        
         }       
 
         #about_img1 {
                  float: right;
-                 width: 100px;
-                 height: 200px;
+                 width: 500px;
+                 height: 300px;
         }
 
         #about_img2 {
                  float: left;
-                 width: 100px;
-                 height: 200px;
+                 width: 500px;
+                 height: 300px;
         }
 
          #about_background {
