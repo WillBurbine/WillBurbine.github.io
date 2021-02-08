@@ -26,3 +26,7 @@
         #about_img2 {
                  float: left;
         }
+
+         #about_background {
+                  background-image: url ("https://github.com/WillBurbine/WillBurbine.github.io/blob/main/cscbackground.jpg?raw=true") ;
+         }
