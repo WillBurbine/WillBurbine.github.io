@@ -21,10 +21,14 @@
 
         #about_img1 {
                  float: right;
+                 width: 100px;
+                 height: 200px;
         }
 
         #about_img2 {
                  float: left;
+                 width: 100px;
+                 height: 200px;
         }
 
          #about_background {
