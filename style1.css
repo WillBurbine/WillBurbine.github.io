@@ -5,4 +5,7 @@
         body {
             background-color: #00ffff;
         }
-            
+        
+        #button-table {
+                 width:  800px;
+        } 
