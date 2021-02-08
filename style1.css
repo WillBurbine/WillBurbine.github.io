@@ -23,15 +23,27 @@
 
         #about_img1 {
                  float: left;
-                 width: 300px;
+                 width: 200px;
                  height: 300px;
         }
 
         #about_img2 {
                  float: left;
-                 width: 300px;
+                 width: 200px;
                  height: 300px;
         }
+
+         #about_img3 {
+                 width: 200;
+                 height; 300;
+        }
+
+         #about_img4 {
+                  width: 200;
+                 height: 300;
+        }
+
+
 
          #about_background {
                   background-image: url("cscbackground.jpg")
